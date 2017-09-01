@@ -9,8 +9,11 @@
         <title>{% if header.title %}{{ header.title|e('html') }} | {% endif %}{{ site.title|e('html') }}</title>
         <link rel="icon" type="image/png" href="{{ url('theme://images/favicon.png', true) }}" />
         {% block stylesheets %}
+            
+
             {% do assets.add('theme://css/font-awesome.min.css',99) %}
             {% do assets.add('theme://css-compiled/theme.css',98) %}
+            
         {% endblock %}
         {{ assets.css() }}
 

@@ -4,7 +4,7 @@ table{width:100%;border:1px solid #f0f0f0;margin:30px 0}th{font-weight:bold;back
 /* Ab hier kommt mein eigenes css */
 
 body{
-   background-image: url(../images/hintergrund2.jpg);
+   background-image: url(../images/hintergrund3.jpg);
    background-size: 100% 100%;
    background-repeat: no-repeat;
    
@@ -60,5 +60,16 @@ body{
     box-sizing: border-box;
     margin-top: 30%;
     margin-left: 10%;
+}
+
+.row{
+   background-color: white;
+   border-top-left-radius: 20px;
+   border-top-right-radius: 20px;
+}
+
+.header{
+   padding-top: 20px;
+   padding-bottom: 0;
 }
 
