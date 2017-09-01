@@ -66,6 +66,7 @@ body{
    background-color: white;
    border-top-left-radius: 30px;
    border-top-right-radius: 30px;
+   margin-top: 40px;
 }
 
 .header{
@@ -73,6 +74,7 @@ body{
    padding-bottom: 0;
    background-color: #1467A6;
    background-image: none;
+   margin-bottom: 0;
 }
 
 .list-item{
