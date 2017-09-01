@@ -64,13 +64,22 @@ body{
 
 .row{
    background-color: white;
-   border-top-left-radius: 20px;
-   border-top-right-radius: 20px;
+   border-top-left-radius: 30px;
+   border-top-right-radius: 30px;
 }
 
 .header{
    padding-top: 20px;
    padding-bottom: 0;
-   color: #1467A6;
+   background-color: #1467A6;
+   background-image: none;
 }
 
+.list-item{
+   margin: 30px 42.5px 50px;
+   width: 90%;
+}
+
+ol.breadcrumb{
+   margin-left: 42.5px;
+}
