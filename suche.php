@@ -1,0 +1,1 @@
+<div id="output"><?php include("wdw_suche/search.php");?></div>	
