@@ -1,16 +1,11 @@
-name: Bootstrap
-version: 1.6.0
-description: "Bootstrap is built using the popular **Bootstrap** Framework"
+name: Michael's Blog
+version: 1
+description: Das hier ist das Theme, dass ich für meinen Blog einsetze.
 icon: bold
 author:
-  name: Team Grav
-  email: devs@getgrav.org
-  url: http://getgrav.org
-homepage: https://github.com/getgrav/grav-theme-bootstrap
-demo: http://demo.getgrav.org/bootstrap-skeleton/
-keywords: bootstrap, theme, framework
-bugs: https://github.com/getgrav/grav-theme-bootstrap/issues
-license: MIT
+  name: Michael
+  email: michael.wasserfallen@vtg.admin.ch
+keywords: bootstrap, theme, 
 
 dependencies:
   - bootstrapper
