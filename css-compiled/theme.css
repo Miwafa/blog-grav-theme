@@ -90,3 +90,51 @@ ol.breadcrumb{
 img{
    margin-top: 20px;
 }
+
+.simplesearch{
+   height: 100%;
+   width: 100%;
+   background-color: white;
+   margin: 0 auto;
+   opacity: 0.8;
+
+}
+
+.center{
+   text-align: center;
+   padding-bottom: 100px;
+}
+
+input{
+   width: 40%;
+   height: 100px;
+   background-color: #146;
+   color: white;
+   border-radius: 100px;
+   padding-left: 40px;
+   font-size: 30px;
+   box-shadow: 5px 15px 20px #000;
+   border-color: #146;
+}
+
+.search-header{
+   text-align: center;
+   padding-top: 30px;
+   padding-bottom: 30px;
+   color: #146;
+}
+
+.search-row{
+   width: 80%;
+   margin: 0 auto;
+   padding-bottom: 10px;
+}
+
+div p{
+   margin: 0 auto;
+   
+}
+#query{
+   width: 80%;
+   padding-bottom: 20px;
+}
